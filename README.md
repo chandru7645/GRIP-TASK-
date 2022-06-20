@@ -11,7 +11,7 @@ Prediction using Supervised ML
 
 ● Dataset : http://bit.ly/w-data
 
-# Task 3
+# Task 3  EDA RETAIL 
 Exploratory Data Analysis
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
